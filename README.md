@@ -34,7 +34,7 @@ Atualmente desenvolvo projetos acadêmicos que aplicam meus conhecimentos em des
 ---
 
 ### 🎓 Experiência Acadêmica
-Sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS, onde desenvolvo habilidades em programação, banco de dados e trabalho em equipe.
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFBA Campus Irecê Bahia, onde desenvolvo habilidades em programação, banco de dados e trabalho em equipe.
 
 ---
 
