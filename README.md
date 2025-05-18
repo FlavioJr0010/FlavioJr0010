@@ -52,6 +52,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFBA Campus Irecê Ba
 🏋️‍♂️ Apaixonado por **fitness** e **Muay Thai**  
 💡 Sempre aberto a **novos aprendizados** e **colaborações**
 
----
-
-![Snake animation](https://github.com/flaviojr/flaviojr/blob/output/github-contribution-grid-snake.svg)
