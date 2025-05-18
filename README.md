@@ -1,33 +1,57 @@
-## Hello, I'm Flávio Jr! 👋
+## Oi, eu sou o Flávio Jr! 👋
 
-I am a developer passionate about technology, always looking to learn and grow in the field. Currently, I study and develop academic projects using the following technologies:
-
-### 🚀 Technologies
-- Java ☕
-- React ⚛️
-- MySQL 🛢️
-- PostgreSQL 🐘
-
-### 📌 Projects
-Currently, my main projects are those developed in college, where I apply my knowledge in software development and databases.
-
-### 🎓 Academic Experience
-Working on academic projects in college, I have been improving my skills in both programming and teamwork.
-
-### 🌎 Connect with me
-🔗 [LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-roberto-soares-dos-santos-j%C3%BAnior-a522332a7/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2drvB08hQ62SGb6YUoLr8A%3D%3D)
-
-📩 Contact me: **Flávio Roberto**
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojr&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojr&layout=compact&langs_count=7&theme=radical"/>
+<div>
+  <a href="https://github.com/flaviojr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviojr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojr&layout=compact&langs_count=10&theme=radical"/>
+  </a>
 </div>
 
-### 🎯 About Me
-📖 I enjoy **reading** 📚
-🏋️‍♂️ Passionate about **fitness** 💪
+---
+
+### 🚀 Tecnologias que uso e estudo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Flavio-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Flavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Flavio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Flavio-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Flavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Flavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Flavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Flavio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Flavio-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Flavio-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Flavio-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Flavio-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+</div>
 
 ---
-💡 Always open to learning and collaborating! 🚀
+
+### 💼 Projetos
+Atualmente desenvolvo projetos acadêmicos que aplicam meus conhecimentos em desenvolvimento de software e banco de dados.
+
+---
+
+### 🎓 Experiência Acadêmica
+Sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS, onde desenvolvo habilidades em programação, banco de dados e trabalho em equipe.
+
+---
+
+### 🌎 Conecte-se comigo
+<div> 
+  <a href="https://www.instagram.com/flavio.junior_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-roberto-soares-dos-santos-j%C3%BAnior-a522332a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:dev.flavioroberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+---
+
+### 🎯 Sobre mim
+📚 Gosto de **ler**  
+🏋️‍♂️ Apaixonado por **fitness**  
+💡 Sempre aberto a **novos aprendizados** e **colaborações**
+
+---
+
+![Snake animation](https://github.com/flaviojr/flaviojr/blob/output/github-contribution-grid-snake.svg)
