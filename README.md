@@ -49,7 +49,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS, onde desenvolv
 
 ### 🎯 Sobre mim
 📚 Gosto de **ler**  
-🏋️‍♂️ Apaixonado por **fitness**  e **Muay Thai**
+🏋️‍♂️ Apaixonado por **fitness** e **Muay Thai**  
 💡 Sempre aberto a **novos aprendizados** e **colaborações**
 
 ---
