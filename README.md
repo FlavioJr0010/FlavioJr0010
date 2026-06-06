@@ -60,6 +60,18 @@ Meus projetos atuais misturam pesquisa acadêmica, infraestrutura e desenvolvime
 
 ---
 
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlavioJr0010/FlavioJr0010/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlavioJr0010/FlavioJr0010/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FlavioJr0010/FlavioJr0010/main/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 🌎 Vamos nos conectar!
 
 Sinta-se à vontade para me chamar para falar sobre código, trocar ideias sobre arquitetura de software, recomendações de perfumes ou discutir o último treino de artes marciais.
