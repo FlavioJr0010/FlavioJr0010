@@ -12,7 +12,7 @@ Bem-vindo ao meu GitHub! Sou apaixonado por resolver problemas complexos atravé
 *   🎓 Estudante de Análise e Desenvolvimento de Sistemas no **IFBA (Campus Irecê)**.
 *   ⚙️ Foco em desenvolvimento **Backend**, com grande interesse em ecossistemas **Java, Spring** e **Arquitetura Hexagonal**.
 *   🗣️ Aprimorando constantemente meu inglês para a comunicação fluida no cenário tech global.
-*   🥊 Fora do terminal: Minha disciplina vem dos treinos intensos de musculação e **Muay Thai**. Além disso, sou um grande curioso e apreciador de alta perfumaria (especialmente as linhas árabes e de nicho!).
+*   🥊 Fora do terminal: Minha disciplina vem dos treinos intensos de musculação e **Muay Thai**. Além disso, sou um grande curioso em sempre aprender coisas novas.
 
 ---
 
