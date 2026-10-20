@@ -50,16 +50,6 @@ Para construir sistemas robustos e escaláveis, utilizo as seguintes ferramentas
 
 ---
 
-### 🔬 O que estou construindo
-
-Meus projetos atuais misturam pesquisa acadêmica, infraestrutura e desenvolvimento full-stack:
-
-*   **SIDI-DOC:** Desenvolvimento ativo da interface e integração de um sistema de gestão de documentos utilizando React e Vite.
-*   **Inteligência Artificial & IoT:** Produzindo artigos acadêmicos sobre a integração de IA, drones e robótica para prevenção de incêndios, aplicando algoritmos de Machine Learning (como Naïve Bayes e KNN).
-*   **Infraestrutura de Servidores:** Experiência prática na configuração de servidores multi-serviços (SSH, DHCP, Web, FTP) utilizando ambientes Linux (Debian 12).
-
----
-
 ### 🐍 Minhas Contribuições
 
 <div align="center">
